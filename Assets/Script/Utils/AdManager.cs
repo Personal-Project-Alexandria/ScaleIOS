@@ -65,9 +65,9 @@ public class AdManager : MonoSingleton<AdManager> {
 		rewardId = "ca-app-pub-8138314746899986/5882424756";
 
 #elif UNITY_IOS
-		bannerId = "ca-app-pub-8138314746899986/1452225155";
-		videoId = "ca-app-pub-8138314746899986/1591825952";
-		rewardId = "ca-app-pub-8138314746899986/4545292358";
+		bannerId = "ca-app-pub-8138314746899986/1591825952";
+		videoId = "ca-app-pub-8138314746899986/4545292358";
+		rewardId = "ca-app-pub-8138314746899986/6022025552";
 #endif
 	}
 	
